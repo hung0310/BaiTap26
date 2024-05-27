@@ -1,0 +1,22 @@
+[
+    {
+      "ten": "Nguyen Van A",
+      "ns": "2002/12/01",
+      "gt": "Nam"
+    },
+    {
+        "ten": "Nguyen Van B",
+        "ns": "2002/02/29",
+        "gt": "Nam"
+    },
+    {
+        "ten": "Nguyen Van C",
+        "ns": "2002/12/01",
+        "gt": "Nam"
+    },
+    {
+        "ten": "Nguyen Van D",
+        "ns": "2002/12/01",
+        "gt": "Nam"
+    }
+]
